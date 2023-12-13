@@ -1,7 +1,7 @@
 ### Hi there 👋
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-yujincheng08.vercel.app/api?theme=onedark&username=hui1601&show_icons=true&include_all_commits=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR">
-  <img src="https://github-readme-stats-yujincheng08.vercel.app/api?username=hui1601&show_icons=true&include_all_commits=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-yujincheng08.vercel.app/api?theme=onedark&username=hui1601&show_icons=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR">
+  <img src="https://github-readme-stats-yujincheng08.vercel.app/api?username=hui1601&show_icons=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR">
 </picture>
 <!--
 **hui1601/hui1601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
