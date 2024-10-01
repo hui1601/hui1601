@@ -3,7 +3,7 @@
 
 * <nomark>2024. 02. ~ XXXX. XX. : [Changwon National University Computer Science](https://www.changwon.ac.kr/ce/main.do)</nomark>
 
-* <nomark>2024. 03. ~ 2024. XX. : [Next-Generation Security Training Program <Whitehat School 2nd>](https://whitehatschool.kr/)</nomark>
+* <nomark>2024. 03. ~ 2024. 09. : [Next-Generation Security Training Program <Whitehat School 2nd>](https://whitehatschool.kr/)</nomark>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pearl-chi-86.vercel.app/api?username=hui1601&theme=onedark&show_icons=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR">
