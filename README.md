@@ -1,3 +1,4 @@
+문의 메일은 프로필 하단에 있는 이메일로 부탁드립니다
 ## Education
 * <nomark>2020. 03. ~ 2024. 02. : [Gimhae Daecheong Highschool](https://ghdaecheong-h.gne.go.kr/)</nomark>
 
