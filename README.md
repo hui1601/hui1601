@@ -7,8 +7,8 @@
 * <nomark>2024. 03. ~ 2024. 09. : [Next-Generation Security Training Program <Whitehat School 2nd>](https://whitehatschool.kr/)</nomark>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pearl-chi-86.vercel.app/api?username=hui1601&theme=onedark&show_icons=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR">
-  <img src="https://github-readme-stats-pearl-chi-86.vercel.app/api?username=hui1601&show_icons=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pearl-chi-86.vercel.app/api?username=hui1601&include_all_commits=true&theme=onedark&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+  <img src="https://github-readme-stats-pearl-chi-86.vercel.app/api?username=hui1601&include_all_commits=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
 </picture>
 <!--
 **hui1601/hui1601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
